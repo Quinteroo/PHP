@@ -22,7 +22,6 @@ Sirve para que un navegador y un servidor web intercambien datos (como páginas 
 
 //!📌 Código de Respuesta HTTP (Ejemplos más comunes)
 📥 El servidor responde con un código de estado:
-
 ✅ 200 OK → La petición fue exitosa.
 🔄 301 Moved Permanently → Redirección permanente a otra URL.
 ⛔ 403 Forbidden - Acceso no autorizado

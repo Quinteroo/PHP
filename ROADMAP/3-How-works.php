@@ -37,7 +37,7 @@ En términos físicos, un servidor puede ser:
 
 
 
-//! ¿DONDE ESTÁ PHP?$_COOKIEPHP debe estar instalado en el servidor web.
+//! ¿DONDE ESTÁ PHP?
 PHP debe estar instalado en el servidor.
 💡 Opciones para tener PHP en un servidor:
 🔹 En un hosting compartido (los proveedores ya tienen PHP instalado).
